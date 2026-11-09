@@ -1,3 +1,4 @@
 *.tar.gz
 *.swp
 *.tmp
+ci_workspace/
