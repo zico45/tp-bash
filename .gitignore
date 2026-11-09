@@ -2,3 +2,4 @@
 *.swp
 *.tmp
 ci_workspace/
+ci.log
